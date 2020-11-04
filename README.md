@@ -1,0 +1,2 @@
+# Chappie
+Meu nome é Chappie, e eu sou um BOT desenvolvido para ajudar a servidores ter uma cara diferentes dos outros, mas não apenas isso como também sou focado em moderação.  O meu criador me adicionou varios sistemas que pode ajudar muito você na criação do seu servidor e na questão de moderação dele, sistemas como de bem vindo onde que você edita a mensagem que sera enviada e pode até colocar uma imagem, sistemas de painel avançados e entre outros.  Tenho certeza que você vai se surpreender com meus sistemas magnificos e o melhor, é tudo de graça! 
